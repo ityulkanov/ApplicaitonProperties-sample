@@ -1,2 +1,2 @@
-# sampleHibernateProperties
-Sample Hibernate Properties for Spring Boot projects
+# Application properties sample (SpringBoot) 
+Sample App Properties for Spring Boot projects
